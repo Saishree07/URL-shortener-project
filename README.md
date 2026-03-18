@@ -1,4 +1,4 @@
-# Easy URL Shortener
+# URL Shortener
 
 ## Project Overview
 This project is a full-stack URL Shortener application similar to Bitly. Users can shorten long URLs, view recent URLs, track click counts, and view analytics.
